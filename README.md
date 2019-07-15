@@ -1,1 +1,1 @@
-# barcode-ean13
+# RPA barcode EAN13
