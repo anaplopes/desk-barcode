@@ -124,7 +124,7 @@ class Application:
         file = self.pathfile.get()
         local_save = self.pathsave.get()
         code = self.barcode_type.get()
-        text = True if self.includetext.get() == 'Sim' or self.includetext.get() == 'sim' else False
+        text = True if self.includetext.get() == 'S' or self.includetext.get() == 's' else False
         count_lines = self.count_lines(file)
         current_value = 1
         try:
