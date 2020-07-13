@@ -1,12 +1,7 @@
 import sys
 from cx_Freeze import setup, Executable
-import ghostscript
 import PIL
 import treepoem
-from tkinter import *
-from tkinter import messagebox
-from tkinter.ttk import Progressbar
-from tkinter.filedialog import askopenfilename, askdirectory
 
 
 # Dependencies are automatically detected, but it might need fine tuning.
