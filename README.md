@@ -1,5 +1,7 @@
 # Api Sms
 
+Instale o ghostscript no seu computador: https://www.ghostscript.com/download/gsdnld.html
+
 <p>Tipo de barcode:</p>
 
     * qrcode: QR Code;
