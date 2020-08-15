@@ -1,4 +1,4 @@
-# Api Sms
+# Aplicação desktop barcode
 
 Instale o ghostscript no seu computador: https://www.ghostscript.com/download/gsdnld.html
 
