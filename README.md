@@ -1,4 +1,4 @@
-# Aplicação desktop barcode
+# Aplicação Desktop Barcode
 
 Instale o ghostscript no seu computador: https://www.ghostscript.com/download/gsdnld.html
 
