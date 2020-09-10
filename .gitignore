@@ -2,7 +2,6 @@
 .idea
 .editorconfig
 
-
 # Created by https://www.gitignore.io/api/flask
 # Edit at https://www.gitignore.io/?templates=flask
 
@@ -102,7 +101,7 @@ celerybeat-schedule
 .env
 .venv
 env/
-venv/
+# venv/
 ENV/
 env.bak/
 venv.bak/
